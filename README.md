@@ -1,5 +1,5 @@
 # DiffAIL:Diffusion Adversarial Imitation Learning
-This work has been accepted by AAAI24.
+**This work has been accepted by AAAI24.**
 
 PyTorch implementation of Diffusion Adversarial Imitation Learning. If you use our code or data please
 cite the paper.
