@@ -3,11 +3,11 @@
 This repository contains the source code for "DiffAIL:Diffusion Adversarial Imitation Learning":
 [https://arxiv.org/abs/2312.06348](https://arxiv.org/abs/2312.06348)
 
-Accepted at AAAI 2024.
+**Accepted at AAAI 2024.**
 
 # Environments
 
-Method is tested on MuJoCo continuous control tasks in OpenAI gym. Our methods are trained using PyTorch 1.11.0+cu113 and Python
+DiffAIL is evaluated  on MuJoCo continuous control tasks in OpenAI gym. It is trained using PyTorch 1.11.0+cu113 and Python
 3.9.
 
 Install Dependencies
